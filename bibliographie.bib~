@@ -1,0 +1,10 @@
+@article{chan2017gpu,
+title={GPU-Accelerated Bernstein Bézier Discontinuous Galerkin Methods for Wave Problems},
+author={Chan, Jesse and Warburton, T},
+journal={SIAM Journal on Scientific Computing},
+volume={39},
+number={2},
+pages={A628--A654},
+year={2017},
+publisher={SIAM}
+}
